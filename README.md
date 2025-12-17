@@ -17,7 +17,7 @@ This study is based entirely on publicly available datasets.
 
 Transcriptomic data were obtained from the Gene Expression Omnibus (GEO).
 The GEO accession numbers used in this study are provided in the manuscript.
-GEO accession numbers: GSE145926, GSE58682
+GEO accession numbers: GSE145926, GSE58682.
 All analyses represent secondary bioinformatics analyses of existing datasets.
 No new experimental data were generated as part of this repository.
 

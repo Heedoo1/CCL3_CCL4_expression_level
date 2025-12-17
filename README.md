@@ -4,7 +4,7 @@
 This repository contains the bioinformatics analysis code used in the study  
 “Aging Reconfigures Extracellular Vesicle Signaling Driving Environmental Inflammatory Susceptibility”
 
-All bioinformatics and statistical analyses were performed exclusively using the R programming environment.  
+All bioinformatics statistical analyses were performed exclusively using the R programming environment.  
 No wet-lab experiments, sample preparation, or data generation were conducted as part of this repository.
 
 The provided R scripts reproduce the computational analyses used to investigate age-associated alterations in extracellular vesicle (EV)–mediated signaling under environmentally driven inflammatory conditions, including UMAP-based cell-type visualization and chemokine expression comparisons.

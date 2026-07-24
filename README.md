@@ -47,7 +47,7 @@ supporting R ≥ 4.2.0 should be compatible.)
 
 No non-standard hardware (e.g., GPU or high-performance computing resources) is required.
 
-## Installation Guide
+## Installation Guide 
 
 1. Install R (version ≥ 4.2.0) from CRAN.
 2. Install the required R packages:
@@ -64,5 +64,15 @@ BiocManager::install(c(
   "hugene10sttranscriptcluster.db",
   "AnnotationDbi"
 ))
+```
+## Instructions for Use
 
+After completing the installation, execute the R scripts in the `scripts` directory sequentially according to their numeric order.
 
+1. 01_Control_UMAP_visualization.R
+2. 02_ALI_UMAP_visualization.R
+3. 03_CCL3_CCL4_expression_comparison.R
+4. 04_Ozone_inhalation_CCL3_CCL4_expression_comparison.R
+5. 05_Ozone_inhalation_CCL3_CCL4_activationScore_correlation.R
+
+Each script performs the analysis indicated by its filename and generates the corresponding figures and analysis results.

@@ -1,0 +1,17 @@
+
+{
+  "title": "CCL3_CCL4_expression_level",
+  "upload_type": "software",
+  "description": "R bioinformatics analysis scripts associated with the study Aging Reconfigures Extracellular Vesicle Signaling Driving Environmental Inflammatory Susceptibility.",
+  "creators": [
+    {
+      "name": "Jadamba, Budjav"
+    },
+    {
+      "name": "Go, Jun"
+    },
+    {
+      "name": "Lee, Heedoo"
+    }
+  ]
+}
